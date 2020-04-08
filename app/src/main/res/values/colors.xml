@@ -3,4 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="uiBackground">#111111</color>
+    <color name="uiTileBackground">#333333</color>
+    <color name="healthBar">#6aea6a</color>
+    <color name="progressBarBG">#aaaaaa</color>
+    <color name="manaBar">#80cee1</color>
+    <color name="expBar">#fdfd96</color>
 </resources>
