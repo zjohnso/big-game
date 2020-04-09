@@ -3,12 +3,12 @@
     <item
         android:state_focused="true"
         android:state_pressed="true"
-        android:drawable="@color/text" />
+        android:color="@color/uiTileBackground" />
 
     <item
         android:state_focused="false"
         android:state_pressed="true"
-        android:drawable="@color/text" />
+        android:color="@color/uiTileBackground" />
 
-    <item android:drawable="@color/uiTileBackground" />
+    <item android:color="@color/text" />
 </selector>

@@ -13,6 +13,7 @@
 
     <Button
         android:id="@+id/mining"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -30,6 +31,7 @@
 
     <Button
         android:id="@+id/woodcutting"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -38,7 +40,7 @@
         android:background="@drawable/button_color_selector"
         android:layout_row="0"
         android:layout_column="1"
-        android:drawableStart="@drawable/pickaxe_2x"
+        android:drawableStart="@drawable/axe_2x"
         android:text="Woodcutting"
         android:textAllCaps="false"
         android:textAlignment="viewStart"
@@ -47,6 +49,7 @@
 
     <Button
         android:id="@+id/fishing"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -64,6 +67,7 @@
 
     <Button
         android:id="@+id/smithing"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -81,6 +85,7 @@
 
     <Button
         android:id="@+id/carpentry"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -98,6 +103,7 @@
 
     <Button
         android:id="@+id/cooking"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -115,6 +121,7 @@
 
     <Button
         android:id="@+id/melee"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -132,6 +139,7 @@
 
     <Button
         android:id="@+id/ranged"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -149,6 +157,7 @@
 
     <Button
         android:id="@+id/crafting"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -166,6 +175,7 @@
 
     <Button
         android:id="@+id/hunting"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -183,6 +193,7 @@
 
     <Button
         android:id="@+id/farming"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
@@ -200,6 +211,7 @@
 
     <Button
         android:id="@+id/magic"
+        android:textColor="@drawable/button_text_color_selector"
         android:layout_width="0dp"
         android:layout_columnWeight="1"
         android:layout_height="45dp"
